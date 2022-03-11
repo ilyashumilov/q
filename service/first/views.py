@@ -17,7 +17,7 @@ def MainView(request):
         if form.is_valid:
             file = request.FILES['file']
             data = pd.read_csv(file)
-            r = requests.get('http://127.0.0.1:8000/')
+            r = requests.get('http://web:8000/')
             existing = []
             for i in r.json():
                 existing.append(i['number'])
@@ -30,7 +30,7 @@ def MainView(request):
                     payload = {
                         'number':n
                     }
-                    r = requests.post('http://127.0.0.1:8000/',payload)
+                    r = requests.post('http://web:8000/',payload)
 
             with BytesIO() as b:
                 # Use the StringIO object as the filehandle.

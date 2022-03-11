@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dfe862d-db46-41c4-8183-321c17fa4dc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16384" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16385" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16389" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16390" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16391" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16393" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16394" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16398" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16400" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16402" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16403" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16407" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16409" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16410" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16414" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16416" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16418" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16419" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16423" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16425" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16426" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16430" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16432" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16434" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16435" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16439" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16441" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16442" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16446" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16448" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16455" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16456" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16457" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16469" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16470" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16471" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16472" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16484" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16485" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16486" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16498" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16499" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16500" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16501" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16506" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16507" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16508" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16520" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16521" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16525" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16526" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16530" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16531" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16535" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16536" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16537" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16539" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16542" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16543" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16544" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16546" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/16547" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/base/13757/pg_internal.init" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/global/pg_internal.init" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/pg_stat_tmp/db_0.stat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/db/pg_stat_tmp/db_13757.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1247" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1247" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1247_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1247_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1247_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1247_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1249" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1249" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1249_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1249_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1249_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1249_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1259" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1259" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1259_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1259_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/1259_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/1259_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2224" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2224" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2579" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2579" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2604" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2604" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2606" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2606" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2606_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2606_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2606_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2606_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2608" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2608" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2608_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2608_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2608_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2608_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2610" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2610" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2610_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2610_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2610_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2610_vm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2620" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2620" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2656" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2656" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2657" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2657" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2658" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2658" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2659" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2659" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2662" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2662" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2663" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2663" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2664" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2664" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2665" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2665" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2666" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2666" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2667" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2667" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2673" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2673" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2673_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2673_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2674" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2674" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2674_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2674_fsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2678" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2678" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2679" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2679" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2699" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2699" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2701" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2701" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2702" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2702" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2703" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2703" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/2704" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/2704" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/3455" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/3455" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/base/13757/5002" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/base/13757/5002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/global/1260" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/global/1260" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/pg_stat_tmp/global.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/pg_wal/000000010000000000000001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/pg_xact/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/db/postmaster.pid" beforeDir="false" afterPath="$PROJECT_DIR$/data/db/postmaster.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/database/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/service/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/first/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/first/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="261p8PccuqSoNkrGrM71lueHZ74" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service/first" />
+      <recent name="$PROJECT_DIR$/database/one" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.script">
+    <configuration name="request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="filtration service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database/one" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/one/request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="filtration service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service/first/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scritp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="filtration service" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database/scritp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="database: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="database/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="database.db: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="db" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="database/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.script" />
+        <item itemvalue="Python.scritp" />
+        <item itemvalue="Python.request" />
+        <item itemvalue="Docker.database.db: Compose Deployment" />
+        <item itemvalue="Docker.database: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dfe862d-db46-41c4-8183-321c17fa4dc3" name="Changes" comment="" />
+      <created>1646600787032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646600787032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
