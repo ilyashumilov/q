@@ -1,0 +1,11 @@
+The application created to compare the data from the input .csv file with existing data from the DB 
+and generate new document only with the not registered in DB data.
+
+Represents the microservices architecture pattern and consist of three containerized services assembled by Docker compose:
+
+- db service - PostgreSQL DB
+- web service - retreives existing data form the DB and add new data.
+- s service  - reads .csv input from form, requests existing data from the 'web' service via HTTP GET request, compares existing data and new one,
+creates output file only with not existing in database data, sends HTTP POST request to 'web' service with the same one to register that in DB.
+
+* API of 'web' service created with Django Rest Framework.
